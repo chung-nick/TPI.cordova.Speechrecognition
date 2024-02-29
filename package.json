@@ -1,0 +1,30 @@
+{
+  "name": "Neux.cordova.speechrecognition",
+  "version": "1.3.0",
+  "description": "Cordova Plugin for Speech Recognition by Neux",
+  "cordova": {
+    "id": "Neux.cordova.speechrecognition",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chung-nick/TPI.cordova.Speechrecognition.git"
+  },
+  "keywords": [
+    "cordova",
+    "speech",
+    "recognition",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [{
+    "name": "cordova",
+    "version": ">=3.0.0"
+  }],
+  "author": "Neux.co",
+  "license": "MIT"
+}
